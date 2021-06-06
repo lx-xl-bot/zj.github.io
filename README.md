@@ -1,12 +1,4 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>学习总结</title>
-</head>
-<body>
     <h1>《Web应用基础》课程结业报告</h1>
     <h2>做了什么主体内容</h2>
     这次选择以世界上三个国家的一些风景作为主题，选择了以中国长城，美国的纽约，巴西足球和文化作为主体内容。<br>  
